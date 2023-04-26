@@ -2,7 +2,7 @@
 
 ## Description
 
-J.A.T.E is a Progressive Web Application text editor that runs in the browser and can be installed to your machine, <br>this application also functions offline. JATE introduces the use of WebPack to run builds and also shows off the use of Social Workers.
+J.A.T.E is a Progressive Web Application text editor that runs in the browser and can be installed to your machine, <br>this application also functions offline. JATE introduces the use of WebPack to run builds and also shows off the use of Social Workers along with the use of indexedDB for storage. This application was deployed to [Heroku](https://evening-caverns-26187.herokuapp.com/)!
 
 ## User Story
 
@@ -42,7 +42,7 @@ WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ```
 
-## [Deployed-Application](URL GOES HERE)
+## [Deployed-Application](https://evening-caverns-26187.herokuapp.com/)
 
 ![snippit](./Assets/example.PNG)
 
